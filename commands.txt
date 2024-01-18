@@ -1,0 +1,1 @@
+./okvis_app_synchronous ../config/config_fpga_p2_euroc.yaml /media/hy/B0CC6321622802A9/ORB-Exp/EuRoC/MH_04_difficult/mav0/
